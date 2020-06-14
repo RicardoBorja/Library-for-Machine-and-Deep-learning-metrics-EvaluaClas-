@@ -14,3 +14,5 @@ Its execution is very simple through the following code:
 Results <- EvaluaClas (data = data)
 
 In the established work address the results will be presented in pdf format, also in the console and finally the function will return a list of the results.
+
+Finally an example of the results is attached (final pdf files)
